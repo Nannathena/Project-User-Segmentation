@@ -1,0 +1,7 @@
+Pengguna paling banyak berada pada segmen Hibernating (1060 atau 27.3%), Champion (550 atau 14.1%), dan Loyal Customers (546 atau 14.0%).
+
+Program khusus yang focus pada urgensi bertransaksi untuk Loyal Customers (546 atau 14.0%) dapat dibuat untuk membuat mereka bertransaksi Kembali dalam waktu dekat sehingga bisa naik ke segmen Champion. 
+
+Program khusus yang focus pada jumlah transaksi untuk Potential Loyalists (523 atau 13.4%) dapat dibuat untuk membuat mereka lebih sering bertransaksi sehingga bisa naik ke segmen Champion.
+
+Program khusus untuk Hibernating (1060 atau 27.3%) dapat dibuat untuk membuat mereka Kembali bertransaksi walaupun belum begitu sering sehingga bisa naik ke segmen New Customers atau bahkan Potential Loyalists.
